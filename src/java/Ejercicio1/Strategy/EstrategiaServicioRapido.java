@@ -6,3 +6,4 @@ public class EstrategiaServicioRapido implements EstrategiaServicio {
         // Implementación específica para restaurante rápido
     }
 }
+
