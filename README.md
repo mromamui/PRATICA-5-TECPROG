@@ -1,5 +1,7 @@
 # PRATICA-5-TECPROG
 
+https://github.com/mromamui/PRATICA-5-TECPROG.git
+
 
 Este proyecto proporciona una solución de software para la gestión de una cadena de restaurantes. El sistema está diseñado para ser modular y adaptable, permitiendo a cada restaurante personalizarlo según sus necesidades específicas. Los módulos cubren diversas áreas operativas, incluyendo la gestión de reservas, pedidos, inventario, personal, experiencia del cliente e informes.
 
