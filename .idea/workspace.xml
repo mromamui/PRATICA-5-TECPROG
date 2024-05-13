@@ -5,20 +5,17 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="4caf3f81-b50c-462c-9fdd-4bea68dfedcb" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/java/Ejercicio1/Composite/ComponenteRestaurante.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/java/Ejercicio1/Composite/GrupoRestaurantes.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/java/Ejercicio1/Composite/RestauranteIndividual.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/PRATICA-5-TECPROG.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/PRATICA-5-TECPROG.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/src/java/Ejercicio1/Factory/Restaurante.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/java/Ejercicio1/Factory/Restaurante.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/src/java/Ejercicio1/Factory/RestauranteDeLujo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/java/Ejercicio1/Factory/RestauranteDeLujo.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/src/java/Ejercicio1/Factory/RestauranteFactory.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/java/Ejercicio1/Factory/RestauranteFactory.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/src/java/Ejercicio1/Factory/RestauranteRapido.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/java/Ejercicio1/Factory/RestauranteRapido.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/src/java/Ejercicio1/Factory/RestauranteTematico.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/java/Ejercicio1/Factory/RestauranteTematico.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/src/java/Ejercicio1/Singleton/GestionRestaurantes.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/java/Ejercicio1/Singleton/GestionRestaurantes.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/src/java/Ejercicio1/Strategy/EstrategiaServicio.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/java/Ejercicio1/Strategy/EstrategiaServicio.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/src/java/Ejercicio1/Strategy/EstrategiaServicioLujo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/java/Ejercicio1/Strategy/EstrategiaServicioLujo.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/src/java/Ejercicio1/Strategy/EstrategiaServicioRapido.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/java/Ejercicio1/Strategy/EstrategiaServicioRapido.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/src/java/Ejercicio1/Strategy/EstrategiaServicioTematico.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/java/Ejercicio1/Strategy/EstrategiaServicioTematico.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/java/Ejercicio1/Command/Comando.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/java/Ejercicio1/Command/ComandoCancelar.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/java/Ejercicio1/Command/ComandoOrdenar.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/java/Ejercicio1/Command/ComandoReservar.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/java/Ejercicio1/Mediator/Mediator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/java/Ejercicio1/Mediator/MediatorRestaurante.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/java/Ejercicio1/State/EstadoLibre.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/java/Ejercicio1/State/EstadoMesa.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/java/Ejercicio1/State/EstadoOcupada.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/java/Ejercicio1/State/EstadoReserva.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -90,7 +87,7 @@
       <workItem from="1715604160280" duration="3401000" />
       <workItem from="1715607731924" duration="194000" />
       <workItem from="1715607938929" duration="482000" />
-      <workItem from="1715608438642" duration="1284000" />
+      <workItem from="1715608438642" duration="2068000" />
     </task>
     <servers />
   </component>
